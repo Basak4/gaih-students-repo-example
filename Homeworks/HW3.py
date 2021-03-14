@@ -68,6 +68,7 @@ print("Highest grade is : ", maxSt)
 
 
 '''
+#  like this
 average = 0
 count = 0
 while count < 5:
